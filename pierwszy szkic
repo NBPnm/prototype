@@ -1,0 +1,3 @@
+print("prosze cos wpisac")
+i = 0
+i = input
